@@ -1,21 +1,17 @@
-<h1 align="center">Hi 👋, I'm Huraira Younas</h1>
-<h3 align="center">Senior MERN Stack Developer & Full-Stack Specialist | 4+ Years Experience</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RahilSurani/RahilSurani/master/assets/header.gif" width="100%" />
+</p>
 
 <p align="center">
-  <a href="https://hurairadev-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Vercel&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/huraira-younas-2a8345222/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=550&lines=Senior+MERN+Stack+Developer;Full-Stack+Architect+%7C+4%2B+Years+Exp;Building+Scalable+Web+Applications" alt="Typing SVG" />
 </p>
 
 ---
 
-### About Me
+### 👨‍💻 About Me
 
-- 💻 **Senior MERN Stack Developer & Full-Stack Specialist** with **4+ years of professional experience** building scalable web applications, real-time systems, and high-performance APIs.
-- 🚀 Passionate about crafting robust full-stack architectures, optimized web solutions, and seamless user experiences.
+- 🚀 **Senior MERN Stack Developer & Full-Stack Specialist** at **Utecho** with **4+ years of professional experience** building scalable web applications, real-time systems, and high-performance APIs[cite: 1].
+- 💡 Passionate about crafting robust full-stack architectures, optimized web solutions, and clean code.
 
 ---
 
@@ -38,12 +34,23 @@
 
 ---
 
-### 📊 GitHub Contributions & Streak
+### 📊 GitHub Stats & Contributions
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MianHuraira&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MianHuraira&theme=tokyonight&hide_border=true" width="48%" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MianHuraira&theme=tokyonight&hide_border=true&layout=compact" width="60%" />
+</p>
+
+---
+
+### 💼 Connect With Me
+
+- **🌐 Portfolio:** [hurairadev-portfolio.vercel.app](https://hurairadev-portfolio.vercel.app/)
+- **💼 LinkedIn:** [Mian Huraira](https://www.linkedin.com/in/huraira-younas-2a8345222/)[cite: 3]
 
 ---
 
