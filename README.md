@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hi there, I'm Huraira Younas 👋
 
-<!--
-**MianHuraira/MianHuraira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 **Senior MERN Stack Developer & Full-Stack Specialist** with 4+ years of professional experience building scalable web applications, real-time systems, and high-performance APIs.
+- 🚀 Passionate about building robust full-stack applications, modern web solutions, and optimized architectures.
+- 🛠️ **Core Tech Stack:** 
+  - **Frontend:** React.js, Next.js, Redux Toolkit, Tailwind CSS, HTML5, CSS3
+  - **Backend:** Node.js, Express.js, PHP
+  - **Databases:** MongoDB, Supabase, Firebase
+  - **Tools & DevOps:** Git, GitHub, Nginx, Linux/Ubuntu VPS, PM2, Docker, Postman
+- 🌐 **Integrations & Services:** Stripe Connect, Square, Mapbox Places API, Twilio, Deepgram, Cartesia.
+- ⚡ Always eager to learn, optimize web performance, and build scalable digital products.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 Hire Me & Connect With Me
+
+I am currently available for freelance projects, remote collaborations, and professional opportunities. Feel free to reach out via:
+
+- **Portfolio:** [hurairadev-portfolio.vercel.app](https://hurairadev-portfolio.vercel.app/)
+- **LinkedIn:** [Mian Huraira](https://www.linkedin.com/in/huraira-younas-2a8345222/)
